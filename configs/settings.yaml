@@ -66,7 +66,8 @@ fields:
           Nginx: NGINX
           HAProxy: HAProxy
           Traefik: Traefik
-        default: Nginx
+          Envoy: Envoy
+        default: Envoy
         hideLabel: false
         editable: false
 
